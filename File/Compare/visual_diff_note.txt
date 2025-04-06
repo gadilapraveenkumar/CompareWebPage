@@ -1,0 +1,5 @@
+Comparison Result: PASS
+Matching: 97.06%
+Differences: 2.94%
+Regions Failed: 20
+Visual diff saved at: C:\Software\Python\CompareWebPage\File\Compare\\visual_diff.png
